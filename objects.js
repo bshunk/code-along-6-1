@@ -95,6 +95,7 @@ console.log(song.makeSongString());
 
 
 
+// .REPEAT IS A METHOD THAT IS SUPER IMPORTANT!!!!!!!!!!!!	//
 
 
 
